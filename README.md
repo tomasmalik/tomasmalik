@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world! 👋
+
+My name is Tomáš Malík and I'm software developer with focus on .NET technologies.
+
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-mal%C3%ADk-150b48209/) 
 
 <!--
 **tomasmalik/tomasmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
